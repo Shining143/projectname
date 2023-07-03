@@ -15,7 +15,7 @@ public class Test1 {
 		driver.manage().window().maximize();
 		driver.get("https://www.gmail.com");
 		Thread.sleep(3000);
-		driver.findElement(By.name("identifier")).sendKeys("jp9088768@gmail.com");
+		driver.findElement(By.name("identifier")).sendKeys("jp90888@gmail.com");
 		
 		
 
